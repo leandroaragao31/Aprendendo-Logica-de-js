@@ -9,4 +9,4 @@ let iamHuman = true
 let number = 37
 let number2 = 28
 
-console.log("a somba entre os numeros é", number + number2)
+console.log("a soma entre os numeros é", number + number2)
